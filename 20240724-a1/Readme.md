@@ -1,22 +1,18 @@
-# Fundamentals of Generative AI - Assignment 02
+# Fundamentals of Generative AI - Assignment 01
 
 **Assignment Overview:**
-Summarize any one of the following in your own words:
+Summarize any one of the following topics in your own words:
 
-- What are microservices, and how can AI-based microservices be developed?
-- What is cloud-native computing? What are the differences between cloud and edge computing in AI? Which is more suitable for AI applications, and why? - - How can both be effectively utilized together?
-- Which option is more advantageous: Serverless OpenAI API or Cloud-Hosted Open Source LLMs? Why? Additionally, how can both be utilized?
-- What is Nvidia NIM?
-- Explain kubernetes powered cloud services spectrum.
-- Write a note on any two of the following AI stacks:
-  1. Local AI Microservices Development Stack
-  2. Serverless with OpenAI APIs
-  3. Custom AI Stack with PyTorch, Llama, and Kubernetes
-  4. OpenAI GPTs Stack with Conversational Interfaces
-  5. The Rise of Agentic AI: A New Era of Intelligent Collaboration
-  6. The Next Wave of AI: Humanoids and Physical AI
+- Differentiate between AI, machine learning, deep learning, generative AI, and applied AI.
+- Define Artificial General Intelligence (AGI) and outline the five steps to achieve super intelligence.
+- Explain the concepts of training and inference in AI, and describe how GPUs or neural engines are utilized for these tasks.
+- Describe neural networks, including an explanation of parameters and tokens.
+- Provide an overview of Transformers, Generative Adversarial Networks (GANs), Variational Autoencoders (VAEs), and Long Short-Term Memory (LSTM) networks.
+- Clarify what Large Language Models (LLMs) are, compare open-source and closed-source LLMs, and discuss how LLMs can produce hallucinations.
+- Explain models, multimodal and foundation models, also discuss how they can be fine-tuned.
+- Identify the key differences between CPUs, GPUs, and NPUs, and explain the major distinctions between x86 and ARM microprocessors.
 
-You can use the resources available at https://github.com/panaversity/learn-applied-generative-ai-fundamentals/tree/main or those discussed in the session at https://www.youtube.com/live/PGHey9ep7PA?si=Ev4oXy-Vtxd7ElKO
+You can use the resources available at https://github.com/panaversity/learn-applied-generative-ai-fundamentals/tree/main or those discussed in the session at https://www.youtube.com/live/6-W9mY-t430?si=MMOpATczT74Dg9wG.
 
 **Submission Guidelines:**
 Create a presentation using Google Slides or a document using Google Docs, and submit the link to your document.
